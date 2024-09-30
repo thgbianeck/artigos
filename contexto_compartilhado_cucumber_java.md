@@ -107,6 +107,7 @@ Estas pastas seguem a convenção padrão do Maven para organização de código
 
 2. Após criar todos os arquivos mencionados neste guia, sua estrutura de pastas deve se parecer com isto:
 
+```
    cucumber-poc/
    ├── pom.xml
    ├── src
@@ -127,8 +128,9 @@ Estas pastas seguem a convenção padrão do Maven para organização de código
    │ └── exemplo
    │ └── gerenciar_usuario.feature
    └── target/
+```
 
-   Esta estrutura de pastas segue as melhores práticas para projetos Maven e Cucumber, separando claramente o código de produção, o código de teste e os recursos de teste.
+Esta estrutura de pastas segue as melhores práticas para projetos Maven e Cucumber, separando claramente o código de produção, o código de teste e os recursos de teste.
 
 ## Passo 3: Criação das Classes Java
 
